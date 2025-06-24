@@ -47,4 +47,4 @@ def gemini2():
 # Step 5: Main
 if __name__ == "__main__":
     gemini2()
-    openai()
+    # openai()
